@@ -34,7 +34,7 @@ The composite index is calculated as the min-max normalized average of these thr
 
 - **Transportation Equity:** Expand affordable transit in areas with high rates of households without vehicles.  
 - **Integrated Support:** Target multi-issue programs (housing, education, job training) in the most disadvantaged tracts.  
-- **Place-Based Investment:** Use the index to prioritize neighborhoods for ARPA or CDBG funding.
+- **Place-Based Investment:** Use the index to prioritize neighborhoods for funding.
 
 ## Limitations
 
