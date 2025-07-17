@@ -2,7 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-raw_data/
-data/
+# raw_data/
+# data/
 # presentation/
 # output/
