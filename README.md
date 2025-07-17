@@ -15,10 +15,10 @@ The composite index is calculated as the min-max normalized average of these thr
 ## Interpretation
 
 - **Darker Purple Areas (SVI 0.605 to 1.000)**  
-  These tracts show the highest vulnerability, often with concentrations of low-income households, single-parent families, people with disabilities, limited English proficiency, unemployment, and lack of transportation access. Commonly found in North, West, and Southwest Philadelphia.
+  These tracts show the highest vulnerability,.commonly found in North, West, and Southwest Philadelphia.
 
 - **Lighter Purple to White Areas (SVI 0.000 to 0.223)**  
-  These tracts are least vulnerable, typically with higher income, better resources, and lower demographic risk. Located mostly in Center City, parts of Northeast Philadelphia, and some Northwest neighborhoods (e.g., Chestnut Hill, Roxborough).
+  These tracts are least vulnerable. Located mostly in Center City, parts of Northeast Philadelphia, and some Northwest neighborhoods (e.g., Chestnut Hill, Roxborough).
 
 - **Gray Areas ("Missing Data")**  
   Tracts with missing data often correspond to industrial zones, commercial areas, parks, or unpopulated land like the airport or large parks.
